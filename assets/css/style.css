@@ -113,10 +113,10 @@ main {
     flex-direction: column;
     width: fit-content;
     margin: 120px auto;
-    padding: 15px;
+    padding: 25px;
     background-color: #FEF7E2;
     gap: 30px;
-    
+    border-radius: 25px;
 }
 
 main article {
