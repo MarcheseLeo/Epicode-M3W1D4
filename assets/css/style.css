@@ -13,7 +13,9 @@ ul{
     margin:120px auto;
     list-style: none;
     display: flex;
-    width: 800px;
+    width: 60%;
+    min-width: 576px;
+    flex-wrap: wrap;
     background-color: #FEF7E2;
     padding: 15px;
     justify-content: space-around;
