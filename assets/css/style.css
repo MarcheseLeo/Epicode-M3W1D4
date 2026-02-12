@@ -81,6 +81,7 @@ ul>li img {
     display: flex;
     justify-content: space-between;
     gap: 20px;
+    align-items: center;
 }
 
 .product-info {
